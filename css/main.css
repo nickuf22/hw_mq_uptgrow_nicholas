@@ -8,3 +8,8 @@
         background-color: green;
     }
 }
+@media (min-width: 1280px) {
+    body {
+        background-color: blue;
+    }
+}
